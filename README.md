@@ -27,7 +27,7 @@ optional arguments:
 
 # MacFlood: 
 
-Edit the mac address you want to flood in the python script. 
+Edit the mac address() you want to flood in the python script. 
 
 ## Requirements
 * scapy -- `pip install scapy`
