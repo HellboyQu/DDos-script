@@ -33,4 +33,4 @@ Edit the mac address you want to flood in the python script.
 * scapy -- `pip install scapy`
 
 ## Usage
-./macflood.py
+./macflood.py or python macflood.py
