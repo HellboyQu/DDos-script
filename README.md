@@ -8,7 +8,7 @@ It is very easy to use.
 # Usage
 usage: ddos.py [-h] [-g G] [-p P] [-d D] [-ah AH] [-t T]
 
-#Example: python ddos.py -t 999 -g 'https://targeted-website.com 
+Example: python ddos.py -t 999 -g 'https://targeted-website.com 
           python ddos.py -t 999 -p 'https://targeted-website.com' -ah 'Content-Type: application/json' -d '{"json": "payload"}
 
 optional arguments:
@@ -24,3 +24,13 @@ optional arguments:
   -ah      Specify addtional header
   
   -t        Specify number of threads to be used 
+
+# MacFlood: 
+
+Edit the mac address you want to flood in the python script. 
+
+## Requirements
+* scapy -- `pip install scapy`
+
+## Usage
+./macflood.py
