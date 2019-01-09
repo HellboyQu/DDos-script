@@ -2,8 +2,8 @@
 from scapy.all import *
 
 #vendor = "b8:e8:56:"
-vendor = "A4:08:EA:"
-#destMAC = "A4:08:EA:6B:D6:C7"
+vendor = "AA:AA:AA:"
+#destMAC = "AA:00:EE:BB:DD:CC"
 destMAC = "FF:FF:FF:FF:FF:FF"
 
 while 1:
