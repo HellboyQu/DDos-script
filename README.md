@@ -3,7 +3,7 @@ DDos
 
 If you use this script give me credits !! Nerds!!
 
-It is very easy to use. 
+It is very easy to use. This is layer 7 and layer 4 attacks. Just be careful when your using on anyone.  
 
 # Usage
 usage: ddos.py [-h] [-g G] [-p P] [-d D] [-ah AH] [-t T]
